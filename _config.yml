@@ -1,0 +1,21 @@
+## This file configures your site
+
+# Site name (displayed in the header), access with {{ site.name }}:
+name: Martin Spacek
+
+# Site tagline (displayed in the header), access with {{ site.tagline }}:
+tagline: (mspacek)
+
+# Path to GitHub respository, appended to https://github.com/, access with {{ site.repo }}:
+repo: mspacek
+
+## other configuration options:
+
+#markdown: kramdown # doesn't seem to syntax highlight
+markdown: redcarpet
+highlighter: pygments
+
+# Exclude these files from your production _site:
+exclude:
+    - LICENSE
+    - README.md

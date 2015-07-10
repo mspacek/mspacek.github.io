@@ -24,7 +24,8 @@ analyzes spike trains in as many ways as possible.
 
 Here's my [CV](CV.pdf).
 
-Here's my [PhD thesis](mspacek_thesis.pdf) from June, 2015.
+Here's my PhD thesis from June, 2015: [Characterizing patches of primary visual cortex with
+minimal bias](mspacek_thesis.pdf)
 
 Here's a recent poster, presented at [CAN 2015](http://can-acn.org/meeting2015): [Natural
 scene movie responses are more precise in synchronized than desynchronized cat

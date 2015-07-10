@@ -4,7 +4,9 @@ layout: index
 #tagline: page tagline
 ---
 
-![smiley avatar](images/avatar.png)
+<p align="center">
+<img src="images/avatar.png" alt="Smiley avatar" height="200" width="200">
+</p>
 
 I'm a recent PhD graduate in neuroscience at [UBC](http://ubc.ca), in [Nick Swindale's
 lab](http://swindale.ecc.ubc.ca). My interest lies in [computational

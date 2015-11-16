@@ -33,7 +33,7 @@ V1](CAN_2015_poster.pdf)
 
 Here's the resulting manuscript, submitted to _Nat Neurosci_ (November, 2015):
 [Natural scene movie responses are more precise, reliable & sparse in synchronized than
-desynchronized cat V1](natstate.pdf)
+desynchronized cat V1](http://biorxiv.org/content/early/2015/11/14/031765)
 
 Here's my [GitHub account page](http://github.com/mspacek) and my [lab
 page](http://swindale.ecc.ubc.ca/MartinSpacek).

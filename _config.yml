@@ -12,7 +12,7 @@ repo: mspacek
 ## other configuration options:
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Exclude these files from your production _site:
 exclude:

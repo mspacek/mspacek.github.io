@@ -8,13 +8,17 @@ layout: index
 <img src="images/martin.jpg" alt="Smiley avatar" height="300">
 </p>
 
-I'm a recent PhD graduate in neuroscience at [UBC](http://ubc.ca), in [Nick Swindale's
-lab](http://swindale.ecc.ubc.ca). My interest lies in [computational
+I'm a recent PhD graduate in neuroscience from [Nick Swindale's] (http://swindale.ecc.ubc.ca)
+lab at [UBC](http://ubc.ca). I'm now a postdoc in [Laura
+Busse's](http://www.cin.uni-tuebingen.de/research/research-groups/junior-research-groups/cortical-circuits-of-visual-perception/research-directions.html)
+lab, currently at the [University of Tübingen](https://www.uni-tuebingen.de/en.html) in
+Germany, but moving soon to [LMU München](http://www.en.biologie.uni-muenchen.de). My interest
+lies in [computational
 neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience), more specifically,
 the activity of neural assemblies in the brain. I have a notion that what we learn about the
 rules of neural interaction governing perception, memory, decision making and ultimately
 behaviour, can be generalized to other complex systems of interacting agents -- like, perhaps,
-human beings making up a society. This might be a naive notion.
+human beings making up a society. This might be a naïve notion.
 
 I have three projects here: [dimstim](http://dimstim.github.io),
 [spyke](http://spyke.github.io), and [neuropy](http://neuropy.github.io). The first generates

@@ -8,7 +8,7 @@ layout: index
 <img src="images/martin.jpg" alt="Smiley avatar" height="300">
 </p>
 
-I'm a recent PhD graduate in neuroscience from [Nick Swindale's] (http://swindale.ecc.ubc.ca)
+I'm a recent PhD graduate in neuroscience from [Nick Swindale's](http://swindale.ecc.ubc.ca)
 lab at [UBC](http://ubc.ca). I'm now a postdoc in [Laura
 Busse's](http://www.cin.uni-tuebingen.de/research/research-groups/junior-research-groups/cortical-circuits-of-visual-perception/research-directions.html)
 lab, currently at the [University of Tübingen](https://www.uni-tuebingen.de/en.html) in

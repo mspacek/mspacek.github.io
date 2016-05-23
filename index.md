@@ -35,9 +35,8 @@ Here's a recent poster, presented at [CAN 2015](http://can-acn.org/meeting2015):
 scene movie responses are more precise in synchronized than desynchronized cat
 V1](CAN_2015_poster.pdf)
 
-Here's the resulting manuscript, submitted to _Nat Neurosci_ (November, 2015):
-[Natural scene movie responses are more precise, reliable & sparse in synchronized than
-desynchronized cat V1](http://biorxiv.org/content/early/2015/11/14/031765)
+Here's the resulting manuscript: [Cortical state and natural movie responses in cat visual
+cortex](http://dx.doi.org/10.1101/031765)
 
 Here's my [GitHub account page](http://github.com/mspacek) and my former [lab
 page](http://swindale.ecc.ubc.ca/MartinSpacek).

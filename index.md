@@ -5,7 +5,7 @@ layout: index
 ---
 
 <p align="center">
-<img src="images/martin.jpg" alt="Smiley avatar" height="300">
+<img src="images/martin.jpg" alt="Martin" height="300">
 </p>
 
 I'm a recent PhD graduate in neuroscience from [Nick Swindale's](http://swindale.ecc.ubc.ca)

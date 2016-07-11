@@ -31,12 +31,12 @@ Here's my [CV](CV.pdf).
 Here's my PhD thesis (June, 2015): [Characterizing patches of primary visual cortex with
 minimal bias](mspacek_thesis.pdf)
 
-Here's a recent poster, presented at [CAN 2015](http://can-acn.org/meeting2015): [Natural
-scene movie responses are more precise in synchronized than desynchronized cat
-V1](CAN_2015_poster.pdf)
+Here's the resulting manuscript based on one of the chapters: [Cortical state and natural
+movie responses in cat visual cortex](http://dx.doi.org/10.1101/031765)
 
-Here's the resulting manuscript: [Cortical state and natural movie responses in cat visual
-cortex](http://dx.doi.org/10.1101/031765)
+Here's the [corresponding poster](BCCN_Sparks_2016_poster.pdf), presented most recently at
+[BCCN Sparks
+2016](http://www.bccn-munich.de/talks-events/workshop-multichannel-interfacing-of-neuronal-networks).
 
 Here's my [GitHub account page](http://github.com/mspacek) and my former [lab
 page](http://swindale.ecc.ubc.ca/MartinSpacek).

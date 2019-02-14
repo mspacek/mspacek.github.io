@@ -10,9 +10,9 @@ layout: index
 
 I'm a PhD graduate in neuroscience from [Nick Swindale's](http://swindale.ecc.ubc.ca) lab at
 [UBC](http://ubc.ca). As of 2016, I'm a postdoc in [Laura
-Busse's](http://www.cin.uni-tuebingen.de/research/research-groups/junior-research-groups/cortical-circuits-of-visual-perception/research-directions.html)
-lab at [LMU München](http://www.en.biologie.uni-muenchen.de) in Germany, formerly at the
-[University of Tübingen](https://www.uni-tuebingen.de/en.html).
+Busse's](http://neuro.bio.lmu.de/research_groups/res-busse_l/index.html) lab at [LMU
+München](http://www.en.biologie.uni-muenchen.de) in Germany, formerly at the [University of
+Tübingen](https://www.uni-tuebingen.de/en.html).
 
 My interests lies in [computational
 neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience), specifically the

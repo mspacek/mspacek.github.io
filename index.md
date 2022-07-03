@@ -37,7 +37,7 @@ and decarbonization in general. Perhaps if we humans were better at group decisi
 would act more rationally overall and find ourselves in fewer crises.
 
 Over the years, I've also realized how much I enjoy the broad methods that were required
-during my BSc and PhD, including data acquisition, instrumentation, programming, and analysis.
+during my BSc, PhD, and postdoc, including data acquisition, instrumentation, programming, and analysis.
 As an example, [rpimv](https://github.com/mspacek/rpimv) is a recent Raspberry Pi project I
 put together that serves 9 degree of freedom IMU data and GPS data over TCP/IP. It's
 impressive what can be accomplished these days with only a couple hundred lines of source
